@@ -1,4 +1,4 @@
-# HADA:automated annotation of next-generation sequencing data in hereditary angioedema studies
+# HADA: automated annotation of next-generation sequencing data in hereditary angioedema studies
 
 
 
