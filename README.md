@@ -1,5 +1,4 @@
-# HADA
-Hereditary Angioedema Database Annotation
+# HADA:automated annotation of next-generation sequencing data in hereditary angioedema studies
 
 
 
